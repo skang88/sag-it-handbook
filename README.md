@@ -1,3 +1,6 @@
+
+[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
+
 # Seohan Auto Georgia IT Handbook
 
 서한 오토 조지아(Seohan Auto Georgia)의 IT 프로젝트, 시스템, 운영 정책, 그리고 관련 문서를 관리하고 공유하기 위한 핸드북입니다.
@@ -27,4 +30,7 @@
 
 ---
 
+
 > 본 핸드북은 지속적으로 업데이트됩니다. 최신 정보를 확인해 주세요.
+
+[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
